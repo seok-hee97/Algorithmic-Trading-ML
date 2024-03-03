@@ -3,7 +3,7 @@ numpy
 matplotlib
 statsmodels
 pandas_datareader
-datatime
+datetime
 yfinance
 sklearn
 PyPortfolioOpt
