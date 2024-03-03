@@ -8,6 +8,7 @@
 * Project 2 - Twitter Sentiment Trading Strategy
 * Project 3 - Intraday GARCH Model Wrap up 
 
+
 # If you are interested in connecting with me or my research:
 * Premium Discord Server - https://whop.com/quantfactory/
 * Premium Stocks Newsletter - https://quantfactory.substack.com/
@@ -20,3 +21,6 @@
 
 - [Algorithmic Trading - Machine Learning & Quant Strategies Courese with python](https://www.youtube.com/watch?v=9Y3yaoi9rUQ)
 
+
+- [Cherry Quant(wikidocs)](https://wikidocs.net/book/7089)
+- [Quantum Mechanics with MachinLearning](https://wikidocs.net/book/2389)
